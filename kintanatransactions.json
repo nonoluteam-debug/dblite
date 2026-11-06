@@ -68,5 +68,12 @@
     "amount": 1000,
     "status": "confirmed",
     "time": "2026-11-06T06:01:16.872Z"
+  },
+  {
+    "buyerId": "8829138288",
+    "product": "free",
+    "amount": 7000,
+    "status": "confirmed",
+    "time": "2026-11-06T11:00:10.945Z"
   }
 ]
