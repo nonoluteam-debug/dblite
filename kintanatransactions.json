@@ -96,5 +96,12 @@
     "amount": 7000,
     "status": "confirmed",
     "time": "2026-11-07T03:53:16.337Z"
+  },
+  {
+    "buyerId": "8517150569",
+    "product": "reseller",
+    "amount": 10000,
+    "status": "confirmed",
+    "time": "2026-11-09T18:12:25.831Z"
   }
 ]
